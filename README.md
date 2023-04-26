@@ -4,8 +4,8 @@
 
 __En première partie__
 
-Voici une classe Imputer avec en première partie, la moyenne qui s'applique sur une liste par exemple
+Le calcul de la moyenne sur une liste par exemple
 
 __En deuxième partie__
 
-La seconde partie, la médiane et elle peut s'appliquer aussi sur une liste par exemple
+Le calcul de la médiane sur une liste
